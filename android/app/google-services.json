@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "732983610455",
+    "project_id": "project-bakery-80a21",
+    "storage_bucket": "project-bakery-80a21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:732983610455:android:738da15fd33dacc9da2712",
+        "android_client_info": {
+          "package_name": "io.premchada.dev.projectbakery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "732983610455-9osn4480k8bf395g9od2fc2b02jlemig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv5D1yQyPN7FOrzMl4E4ij031zWSCEuD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "732983610455-9osn4480k8bf395g9od2fc2b02jlemig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
